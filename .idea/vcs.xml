@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dom-array-methods-project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/exhange-rate-calculator-project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/expense-tracker-project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/form-validation-project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hangman-game-project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/html_video_player_project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/infinite-scroll-posts-project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/meal-finder-project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/menu-slider-and-modal-project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/movie-seat-booking-project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/music-player-project" vcs="Git" />
+  </component>
+</project>
